@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainForm.cs](./CS/WindowsApplication3/MainForm.cs) (VB: [MainForm.vb](./VB/WindowsApplication3/MainForm.vb))
+* [Program.cs](./CS/WindowsApplication3/Program.cs) (VB: [Program.vb](./VB/WindowsApplication3/Program.vb))
+* [CheckEditViewInfoDescendant.cs](./CS/WindowsApplication3/ToggleSwitch/CheckEditViewInfoDescendant.cs) (VB: [CheckEditViewInfoDescendant.vb](./VB/WindowsApplication3/ToggleSwitch/CheckEditViewInfoDescendant.vb))
+* [RepositoryItemToggleSwitch.cs](./CS/WindowsApplication3/ToggleSwitch/RepositoryItemToggleSwitch.cs) (VB: [RepositoryItemToggleSwitch.vb](./VB/WindowsApplication3/ToggleSwitch/RepositoryItemToggleSwitch.vb))
+* [ToggleSwitch.cs](./CS/WindowsApplication3/ToggleSwitch/ToggleSwitch.cs) (VB: [ToggleSwitch.vb](./VB/WindowsApplication3/ToggleSwitch/ToggleSwitch.vb))
+<!-- default file list end -->
 # How to create a ToggleSwitch editor
 
 
